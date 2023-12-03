@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ishan Deshpande
-- 👀 I’m interested in Robotics and Automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Github
-- 📫 Reach me out by my twitter handle - @ishancodes
+- Hello, my name is Ishan.
+- Currently, I am doing my Bachelor's in Computer Science and Design branch.
+- I’m passionate about Robotics.
+- I’m currently learning Python.
+-  Reach me out by my twitter handle - @ishancodes
