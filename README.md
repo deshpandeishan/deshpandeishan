@@ -1,5 +1,5 @@
 - Hello, my name is Ishan.
 - Currently, I am doing my Bachelor's in Computer Science and Design branch.
 - I’m currently learning Python.
-- I’m passionate about Robotics.
+- I’m passionate about Tech.
 -  Reach me out by my twitter handle - @ishancodes
