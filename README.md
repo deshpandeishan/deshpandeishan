@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, i am pursuing my B.tech degree in Computer Science and Design branch.<br>I am a python programmer.<br>Apart from python I have worked with the other languages like C, JAVA, HTML, CSS and JavaScript.<br>I have also worked on electronics projects.
+I am a python programmer.<br>Currently, I am pursuing my B.tech degree in Computer Science and Design branch at MIT, Chh. Sambhaji Nagar.<br>I have also worked with the some other programming languages: C, JAVA, HTML, CSS and JavaScript.
 
 
 ## 🌐 Socials:
