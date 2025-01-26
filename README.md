@@ -1,5 +1,5 @@
 # About Me:
-I am a python programmer.<br>I am pursuing my B.tech degree in Computer Science and Design branch at MIT, Chh. Sambhaji Nagar (formerly Aurangabad).<br>Till now, I have worked with programming languages which include C, Python, JAVA, HTML, CSS and JavaScript.<br>Currently, I am learning SQL for database management.
+I am a python programmer.<br>I am pursuing my B.tech degree in Computer Science and Design branch at MIT, Chh. Sambhaji Nagar (formerly Aurangabad).<br>Till now, I have worked with programming languages which include C, Python, JAVA, HTML, CSS and JavaScript.<br>For managing databases, I use mySQL.
 
 
 ## Socials:
