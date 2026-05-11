@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a python programmer.<br>I am pursuing my B.tech degree in Computer Science and Design branch at MIT, Chh. Sambhaji Nagar (formerly Aurangabad).<br>Till now, I have worked with programming languages which include C, Python, HTML, CSS and JavaScript.<br>I have experience working with PostgreSQL, SQLite, and MySQL databases.
+I am a final-year Computer Science and Design student at MIT Chhatrapati Sambhajinagar.
+ 
+I have the experience of building backend applications and REST APIs using Java (Spring Boot, Servlets, Jersey) and Python (Flask), with hands-on experience in MySQL and PostgreSQL for database management. I have also worked with Microsoft Azure, Google Cloud Platform (GCP), and AWS for cloud deployment and application management.
+
+My work includes includes API integration, database design, backend architecture, cloud deployment, and building tools involving automation and AI-based services, with a focus on writing scalable and maintainable backend systems.
 
 
 ## 🌐 Socials:
